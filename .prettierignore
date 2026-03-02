@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+.next
+dist
+build
+coverage
+.pnp.cjs
+.pnp.loader.mjs
+.yarn
+package.json
+yarn.lock
+public
